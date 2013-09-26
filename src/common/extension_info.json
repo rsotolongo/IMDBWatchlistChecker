@@ -1,6 +1,6 @@
 {
  "name": "IMDB Watchlist Checker",
- "version": "0.1",
+ "version": "0.2",
  "description": "IMDB Watchlist Checker",
  "creator": "Ricardo Sotolongo",
  "homepage_url": "http://imdbwatcher.azurewebsites.net",

@@ -12,7 +12,7 @@
     "jquery-2.0.3.min.js"
   ], 
   "homepage_url": "http://imdbwatcher.azurewebsites.net", 
-  "version": "0.1", 
+  "version": "0.2", 
   "id": "com.kangoextensions.imdbwatchlistchecker", 
   "locales": [
     "en", 

@@ -11,7 +11,7 @@
     "jquery-2.0.3.min.js"
   ], 
   "homepage_url": "http://imdbwatcher.azurewebsites.net", 
-  "version": "0.1", 
+  "version": "0.2", 
   "id": "{F71D22B2-199D-4259-87D7-D108ED6FF610}", 
   "locales": [
     "en", 

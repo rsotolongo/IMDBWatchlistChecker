@@ -23,7 +23,7 @@
     "16": "icons/button.png"
   }, 
   "homepage_url": "http://imdbwatcher.azurewebsites.net", 
-  "version": "0.1", 
+  "version": "0.2", 
   "background": {
     "page": "background.html"
   }, 
