@@ -13,7 +13,7 @@
         <em:bootstrap>true</em:bootstrap>
 		<em:description>IMDB Watchlist Checker</em:description>
         <em:creator>Ricardo Sotolongo</em:creator>
-		<em:homepageURL>http://gvcoding.com/imdb</em:homepageURL>
+		<em:homepageURL>http://imdbwatcher.azurewebsites.net</em:homepageURL>
 		<em:iconURL>chrome://kango-7a4190e6-1040-4e4c-a4be-47249e455bcc/content/icons/icon32.png</em:iconURL>
 		
 		

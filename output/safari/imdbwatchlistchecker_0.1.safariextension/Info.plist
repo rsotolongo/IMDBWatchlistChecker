@@ -66,6 +66,6 @@
 	<key>Update Manifest URL</key>
 	<string></string>
 	<key>Website</key>
-	<string>http://gvcoding.com/imdb</string>
+	<string>http://imdbwatcher.azurewebsites.net</string>
 </dict>
 </plist>

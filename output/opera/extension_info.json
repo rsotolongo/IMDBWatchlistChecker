@@ -10,7 +10,7 @@
     "main.js", 
     "jquery-2.0.3.min.js"
   ], 
-  "homepage_url": "http://gvcoding.com/imdb", 
+  "homepage_url": "http://imdbwatcher.azurewebsites.net", 
   "version": "0.1", 
   "id": "http://kangoextensions.com/extensions/imdbwatchlistchecker/", 
   "locales": [

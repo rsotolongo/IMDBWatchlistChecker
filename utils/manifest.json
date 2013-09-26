@@ -22,7 +22,7 @@
     "48": "icons/icon48.png", 
     "16": "icons/button.png"
   }, 
-  "homepage_url": "http://gvcoding.com/imdb", 
+  "homepage_url": "http://imdbwatcher.azurewebsites.net", 
   "version": "0.1", 
   "background": {
     "page": "background.html"
