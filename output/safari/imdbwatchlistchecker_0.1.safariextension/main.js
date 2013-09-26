@@ -115,7 +115,7 @@ var helpers = {
     result = "resource://kango-7a4190e6-1040-4e4c-a4be-47249e455bcc/images/checkmark.png";
     break;
    default:
-    result = "http://dl.dropbox.com/u/43364473/checkmark.png";
+    result = "http://raw.github.com/rsotolongo/IMDBWatchlistChecker/master/src/common/images/checkmark.png";
   };
   return result;
  },
